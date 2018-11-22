@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+}
+
+input {
+  display: block;
+  width: 100%;
+}
+
+pre {
+  white-space: pre-wrap;
+}
